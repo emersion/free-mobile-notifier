@@ -1,0 +1,31 @@
+{
+  "name": "free-mobile-notifier",
+  "version": "1.0.0",
+  "description": "A simple Free mobile notification sender",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emersion/free-mobile-notifier.git"
+  },
+  "keywords": [
+    "free",
+    "mobile",
+    "notification",
+    "send",
+    "notify",
+    "notifier",
+    "sms"
+  ],
+  "author": "emersion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emersion/free-mobile-notifier/issues"
+  },
+  "homepage": "https://github.com/emersion/free-mobile-notifier",
+  "dependencies": {
+    "request": "^2.49.0"
+  }
+}
