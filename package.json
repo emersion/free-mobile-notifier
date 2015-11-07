@@ -1,11 +1,9 @@
 {
   "name": "free-mobile-notifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Free mobile notification sender",
   "main": "index.js",
-  "scripts": {
-    "test": " "
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/emersion/free-mobile-notifier.git"
